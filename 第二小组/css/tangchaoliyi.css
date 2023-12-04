@@ -1,0 +1,24 @@
+#three{
+	width:1150px;
+	height:500px;
+	padding:20px;
+	background:#FFF;
+	margin:0 auto;
+}
+h2{
+	width:1130px;
+	height:30px;
+	text-align:center;
+	margin-bottom:10px;
+}
+	
+.content1{
+	width:1130px;
+	height:480px;
+	padding:10px;
+	text-indent:2em;
+	line-height:25px;
+    background:url("../image/tangchaoliyi.jpg");
+	margin-bottom:20px;
+}
+
